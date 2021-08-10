@@ -1,0 +1,27 @@
+header {
+    background-color: #fcc;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#wrapper {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#main {
+    background-color: #cfc;
+    width: 70%;
+}
+
+#menu {
+    background-color: #ccf;
+    width: 30%;
+}
+
+footer {
+    background-color: #fcf;
+    width: 1000px;
+    margin: 0 auto;
+}
